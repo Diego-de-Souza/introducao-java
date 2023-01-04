@@ -1,0 +1,40 @@
+# Arquivo de classe compilado
+* .class
+
+# arquivo de registro
+* .log
+
+# Arquivos BlueJ
+* .ctxt
+
+# Ferramentas móveis para Java (J2ME)
+.mtj.tmp /
+
+# Arquivos de pacote #
+* .jar
+* .war
+* .nar
+* .orelha
+* .zip
+* .tar.gz
+* .rar
+
+# logs de travamento da máquina virtual, consulte http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid *
+Rodapé
+© 2023 GitHub, Inc.
+Navegação no rodapé
+Termos
+Privacidade
+Segurança
+Status
+Documentos
+Entre em contato com o GitHub
+Preços
+API
+Treinamento
+blog
+Cerca de
+
+
+tipos-variaveis/.vscode/settings.json
